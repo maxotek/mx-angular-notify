@@ -9,5 +9,13 @@
         "angular": "v1.6.9",
         "angular-toastr": "2.1.1"
     },
+    "ignore": [
+        "node_modules",
+        "src",
+        ".gitignore",
+        "package.json",
+        "gulpfile.js",
+        "build.conf.js"
+    ],
     "main": "dist/mx-angular-notify.js"
 }
