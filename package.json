@@ -1,7 +1,7 @@
 {
   "name": "mx-angular-notify",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "AngularJS module for showing toast notifications",
   "repository": "https://github.com/maxotek/mx-angular-notify.git",
   "license": "MIT",
