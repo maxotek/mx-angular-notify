@@ -44,7 +44,7 @@
             if (!response.data)
                 return displayError("Unable to connect to API server");
  
-            var error = response.data.message || response.data.error_description;
+            var error = response.data.message || response.data.error_description || response.data;
             if (error)
                 displayError(error);
             else
